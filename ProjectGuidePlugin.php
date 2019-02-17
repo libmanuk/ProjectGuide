@@ -12,7 +12,7 @@
  * @package Omeka\Plugins\ProjectGuide
  */
  
-     // Define Constants.
+     // Define Constants
 
      define('DEFAULT_PROJECT_LINK', 'https://someurl.net/doc.pdf');
      define('DEFAULT_PROJECT_LINK_LABEL', 'Project Guide');
